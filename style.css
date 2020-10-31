@@ -1,0 +1,62 @@
+.namecolor{
+    color: purple;
+}
+
+body{
+font-family: serif;
+color: black;
+line-height: 26px;
+background-color: #d6d3ce;
+}
+
+.half-width{
+width: 50%;
+float: left;
+}
+
+.side-img{
+width: 50%;
+padding-left: 25%;
+}
+
+.primary-button{
+color: #black;
+background-color: #d6d3ce;
+padding: 13px 42px 13px 42px;
+border-radius: 0px;
+border-right: 2px solid #08256b;
+border-bottom: 2px solid #08256b;
+border-left: 2px solid white;
+border-top: 2px solid white;
+text-decoration: none;
+}
+
+h1{
+font-size: 2em;
+}
+
+.container{
+padding-left: 5%;
+display: inline-block;
+}
+
+.experiences{
+padding: 30px;
+margin: 30px;
+background-color: #d6d3ce;
+border-right: 2px solid #08256b;
+border-bottom: 2px solid #08256b;
+border-left: 2px solid white;
+border-top: 2px solid white;
+border-radius: 0px;
+}
+
+.experience-item{
+padding: 10px;
+border-left: 1px solid black;
+}
+
+.header{
+background-color: #08256b;
+color: white;
+}
